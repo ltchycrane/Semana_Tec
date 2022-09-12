@@ -1,5 +1,5 @@
-# Semana_Tec
+### Semana_Tec
 
-## Josephine Esposito
-## Mauricio Maqueo Huerta
-## Guillermo Tafoya
+# Josephine Esposito
+# Mauricio Maqueo Huerta
+# Guillermo Tafoya
