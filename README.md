@@ -1,5 +1,7 @@
 # Semana_Tec
 
-### Josephine Esposito
-### Mauricio Maqueo Huerta
-### Guillermo Tafoya
+| Nombre  | Matrícula |
+|---------|-----------|
+| Josephine Esposito | A00827145 |
+| Mauricio Maqueo Huerta | A01620649 |
+| Guillermo Tafoya Milo| A01633790 |
